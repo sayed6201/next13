@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import React from 'react'
 
+
+//this is a reusable component can be organised in a separeate folder and imported for use
 function Header() {
   return (
     <header className='p-5 bg-blue-500 sticky top-0 z-50'>

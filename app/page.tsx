@@ -1,5 +1,8 @@
 import React from 'react'
 
+
+//page.tsx -> index,
+//page.tsx -> loadsinitially of you dont have layout
 function Home() {
 
   return (
